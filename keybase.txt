@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jfinstrom
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://g3p0.xyz
+  * I am jfinstrom (https://keybase.io/jfinstrom) on keybase.
+  * I have a public key ASBFx1fnod-68cL5UCkH36MWRn3I5IxecgfPQUGZ9R5JqAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012002e2e1590e11ae85b603a9800d648d4f3872e4d6f25e3977251186201ec1c6920a",
+      "host": "keybase.io",
+      "kid": "012045c757e7a1dfbaf1c2f9502907dfa316467dc8e48c5e7207cf414199f51e49a80a",
+      "uid": "36d632b665042f85e69927272e68c919",
+      "username": "jfinstrom"
+    },
+    "merkle_root": {
+      "ctime": 1537555942,
+      "hash": "5629a987e356706a026b46bce8f733b31627ccc02c75f7a5e155c95407b515c3ca4d465735fa9f2a1652a403c4d02f77d5b96360adf7ac7373e5d3711601d91e",
+      "hash_meta": "0e1bb14b50746d2a9ed04a666cb59efd121d358df496038a5b236409396e257e",
+      "seqno": 3649569
+    },
+    "service": {
+      "entropy": "TBkM+yLFnBtWet0fSLX/4OzQ",
+      "hostname": "g3p0.xyz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.6.2"
+  },
+  "ctime": 1537555990,
+  "expire_in": 504576000,
+  "prev": "12ac31c5d278cba2c175677ae065fd7b02a350cf7e4d093a991c8d8a74841638",
+  "seqno": 33,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgRcdX56HfuvHC+VApB9+jFkZ9yOSMXnIHz0FBmfUeSagKp3BheWxvYWTESpcCIcQgEqwxxdJ4y6LBdWd64GX9ewKjUM9+TQk6mRyNinSEFjjEIOyggP0EohYrbBsRSJf9z2x1NQzsqYhL0vdri1cawn7nAgHCo3NpZ8RAxv4MUjFmysvFxwgDkQZXGJy29yZjTVFHgldhKvaXLQtowGg4Bv0HNFvg69vBc/+MtPgnXz+zofNICV7qOxK1DqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPdrM052JgBV1si6jZNJOn/qfrme0T9YMQReuariwIGZo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jfinstrom
+
+==================================================================
